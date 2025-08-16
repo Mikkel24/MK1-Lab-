@@ -1,0 +1,6 @@
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
+Change Net Name : Old Net Name=+5 New Net Name=5V
+Add Net: Net with name "5V" already exists
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
