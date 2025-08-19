@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=XTIN Pin=C42-2
+Removed Pin From Net: NetName=XTOUT Pin=C43-2
+Removed Pin From Net: NetName=XTOUT Pin=Y2-2
+Change Component Footprint: Designator=Y2 Old Footprint=FP-ABLS2-MFG New Footprint=FP-ABMM-MFG
+Change Component Comment : Designator=Y2 Old Comment=6MHz New Comment=ABMM-6.000MHZ-B2-T
+Change Managed Component Library Link : Designator=Y2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9EBD56E0-5C4A-4437-9400-3765B99F23C6 New ItemGUID=B2B9AD47-AA07-4D5F-BC4A-76EB64E4E776 Old RevisionGUID=2922058F-3AC0-48C2-A984-4C58635F83E7 New RevisionGUID=37E05DB5-A9CF-41D5-9A47-25CCD94D3BE9
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "FP-ABLS2-MFG"; UniqueID = "\CPMBZOWX\EZSZBKWL" ("\CPMBZOWX\EZSZBKWL")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "70R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "6MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Stability"; Value = "50ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.051inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.276inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Frequency"; Value = "6 MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "ABMM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series Resistance"; Value = "70R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=XTOUT Pin=C42-2
+Added Pin To Net: NetName=XTIN Pin=C43-2
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=XTOUT Pin=Y2-3
+Added Pin To Net: NetName=GND Pin=Y2-4

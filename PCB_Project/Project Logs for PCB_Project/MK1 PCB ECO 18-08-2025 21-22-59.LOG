@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C31 Old Footprint=CAPC1005X55X25ML5T10 New Footprint=CAPC1608X90X35ML15T15
+Change Component Comment : Designator=C31 Old Comment=Capacitor 1 uF +/- 10% 6.3 V 1005 New Comment=Capacitor 1uF +/- 10% 16V 0603
+Change Managed Component Library Link : Designator=C31 Old VaultGUID=D99720B6-A7BA-4BBE-87B9-D517E3ADA70D New VaultGUID=D99720B6-A7BA-4BBE-87B9-D517E3ADA70D Old ItemGUID=49F7DCBE-0E58-41D3-A296-8BB2E8A61FDB New ItemGUID=278727AA-4600-42AE-B74F-BCF2C770B598 Old RevisionGUID=810EA393-2B79-4432-873E-E695E993299F New RevisionGUID=B352A18B-8063-4D76-B3AA-9BAF5FA45708
+Change component parameters: Designator = "C31" ("C31"); Footprint = "CAPC1005X55X25ML5T10"; UniqueID = "\ZKSZQYSA\FTHADHSW" ("\ZKSZQYSA\FTHADHSW")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
