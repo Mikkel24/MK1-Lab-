@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Codec Member=C48
+Removed Member From Class: ClassName=Codec Member=R12
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
+Add Net: Net with name "+3V3" already exists

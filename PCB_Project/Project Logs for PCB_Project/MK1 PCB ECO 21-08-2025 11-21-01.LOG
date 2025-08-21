@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=D- Pin=SB2-1
+Removed Pin From Net: NetName=NetSB1_0 Pin=U1-D14
+Removed Pin From Net: NetName=NetSB2_0 Pin=U1-E17
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Added Pin To Net: NetName=D- Pin=SB1-1
+Add Pin To Net: Unknown Pin: Pin SB2-0
+Added Pin To Net: NetName=D+ Pin=SB2-1
+Added Pin To Net: NetName=NetSB2_0 Pin=U1-D14
+Added Pin To Net: NetName=NetSB1_0 Pin=U1-E17
+Change Net Name : Old Net Name=DM New Net Name=NetR7_2
+Change Net Name : Old Net Name=DP New Net Name=NetR8_2
+Added Member To Class: ClassName=FTDI Member=Component SB1 SolderbridgeOpen
+Added Member To Class: ClassName=FTDI Member=Component SB2 SolderbridgeOpen

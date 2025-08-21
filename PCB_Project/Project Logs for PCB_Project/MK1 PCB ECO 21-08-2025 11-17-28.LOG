@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+3V3 Pin=J1-A5
+Removed Pin From Net: NetName=+3V3 Pin=J1-B5
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
