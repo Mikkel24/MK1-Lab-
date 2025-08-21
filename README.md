@@ -5,3 +5,6 @@ A singular SMPS is to be implemented, following a chip specific design.
 An FTDI USB-JTAG IC is used with onboard EEPROM for an onboard debugger for the STM32H7x.
 A flash memory IC is also used with interface of QSPI to uProcessor.
 The routing of the BGA is done via a dogbone fanout, and some experimental designs is applied to the PCB for educational and getting familiar with alitum designer.
+# Altium progress
+<img width="888" height="377" alt="Skærmbillede 2025-08-21 131901" src="https://github.com/user-attachments/assets/81c059bd-2efd-4363-8a3b-9f1c73077ac3" />
+<img width="821" height="671" alt="Skærmbillede 2025-08-21 131806" src="https://github.com/user-attachments/assets/132ddff9-0daf-45da-a4ca-666a7314b642" />
