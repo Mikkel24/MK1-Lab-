@@ -7,4 +7,5 @@ A flash memory IC is also used with interface of QSPI to uProcessor.
 The routing of the BGA is done via a dogbone fanout, and some experimental designs is applied to the PCB for educational and getting familiar with alitum designer.
 # Altium progress
 <img width="888" height="377" alt="Skærmbillede 2025-08-21 131901" src="https://github.com/user-attachments/assets/81c059bd-2efd-4363-8a3b-9f1c73077ac3" />
-<img width="821" height="671" alt="Skærmbillede 2025-08-21 131806" src="https://github.com/user-attachments/assets/132ddff9-0daf-45da-a4ca-666a7314b642" />
+
+<img width="790" height="621" alt="Skærmbillede 2025-08-22 221456" src="https://github.com/user-attachments/assets/d1786fb3-824d-4ba0-aa28-a74932e700ae" />
