@@ -1,0 +1,17 @@
+Added Component: Designator=SB3(PCBComponent_1)
+Added Component: Designator=SB4(PCBComponent_1)
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
+Add Pin To Net: Unknown Pin: Pin SB3-0
+Add Pin To Net: Unknown Pin: Pin SB4-0
+Add Net: Net with name "+3V3" already exists
+Added Pin To Net: NetName=DM_JMP Pin=SB1-1
+Added Pin To Net: NetName=DM_JMP Pin=SB3-1
+Added Pin To Net: NetName=DM_JMP Pin=U1-E17
+Added Net: Name=DM_JMP
+Added Pin To Net: NetName=DP_JMP Pin=SB2-1
+Added Pin To Net: NetName=DP_JMP Pin=SB4-1
+Added Pin To Net: NetName=DP_JMP Pin=U1-E16
+Added Net: Name=DP_JMP
+Added Member To Class: ClassName=FTDI Member=Component SB3 SolderbridgeOpen
+Added Member To Class: ClassName=FTDI Member=Component SB4 SolderbridgeOpen

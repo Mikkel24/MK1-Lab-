@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=D- Pin=SB1-1
+Removed Pin From Net: NetName=D+ Pin=SB2-1
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
+Add Net: Net with name "+3V3" already exists
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetSB1_1 Pin=U1-E17
+Added Net: Name=NetSB1_1
+Added Pin To Net: NetName=NetSB2_1 Pin=SB2-1
+Added Pin To Net: NetName=NetSB2_1 Pin=U1-E16
+Added Net: Name=NetSB2_1

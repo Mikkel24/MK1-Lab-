@@ -1,0 +1,27 @@
+Added Component: Designator=J5(FP-USB4085-GF-A-MFG)
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-A1
+Added Pin To Net: NetName=+5 Pin=J5-A4
+Added Pin To Net: NetName=D+ Pin=J5-A6
+Added Pin To Net: NetName=D- Pin=J5-A7
+Added Pin To Net: NetName=+5 Pin=J5-A9
+Added Pin To Net: NetName=GND Pin=J5-A12
+Added Pin To Net: NetName=GND Pin=J5-B1
+Added Pin To Net: NetName=+5 Pin=J5-B4
+Added Pin To Net: NetName=D+ Pin=J5-B6
+Added Pin To Net: NetName=D- Pin=J5-B7
+Added Pin To Net: NetName=+5 Pin=J5-B9
+Added Pin To Net: NetName=GND Pin=J5-B12
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
+Add Net: Net with name "+3V3" already exists
+Added Member To Class: ClassName=USB interface Member=Component J5 USB4085-GF-A

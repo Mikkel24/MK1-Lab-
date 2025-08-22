@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=C30 Old Footprint=CAPC3216X180X20ML20 New Footprint=CAPC0603(1608)100_L
+Change Component Comment : Designator=C30 Old Comment=Capacitor 1 uF +/- 10% 25 V 1206 New Comment=Capacitor 4.7µF +/-20% 10V 0603
+Change Managed Component Library Link : Designator=C30 Old VaultGUID=D99720B6-A7BA-4BBE-87B9-D517E3ADA70D New VaultGUID=D99720B6-A7BA-4BBE-87B9-D517E3ADA70D Old ItemGUID=96AD822C-88E3-42A7-95D5-778D3022F9DF New ItemGUID=1BD9C21B-0C55-4A28-BC68-64F03FEBBA0B Old RevisionGUID=396D2FB1-305B-40B6-B771-F4A49FE435C6 New RevisionGUID=90E66142-7A56-4D78-B7FA-F665CDAC1D5C
+Change component parameters: Designator = "C30" ("C30"); Footprint = "CAPC3216X180X20ML20"; UniqueID = "\ZKSZQYSA\RZUTYYWW" ("\ZKSZQYSA\RZUTYYWW")
+Change component parameters (AddParameter): Name = "Capacitor Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=CN1(JAE-DX07S024JJ3_V)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
+Change Net Name : Old Net Name=FB New Net Name=NetR1_1
+Change Net Name : Old Net Name=SW New Net Name=NetC29_1
+Add Net: Net with name "+3V3" already exists
+Added Member To Class: ClassName=USB interface Member=Component CN1 DX07S024JJ3R1300

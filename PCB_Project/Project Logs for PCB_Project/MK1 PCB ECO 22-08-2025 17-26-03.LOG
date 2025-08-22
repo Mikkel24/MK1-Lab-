@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J1-A1
+Removed Pin From Net: NetName=+5 Pin=J1-A4
+Removed Pin From Net: NetName=D+ Pin=J1-A6
+Removed Pin From Net: NetName=D- Pin=J1-A7
+Removed Pin From Net: NetName=+5 Pin=J1-A9
+Removed Pin From Net: NetName=GND Pin=J1-A12
+Removed Pin From Net: NetName=GND Pin=J1-B1
+Removed Pin From Net: NetName=+5 Pin=J1-B4
+Removed Pin From Net: NetName=D+ Pin=J1-B6
+Removed Pin From Net: NetName=D- Pin=J1-B7
+Removed Pin From Net: NetName=+5 Pin=J1-B9
+Removed Pin From Net: NetName=GND Pin=J1-B12
+Removed Member From Class: ClassName=USB interface Member=J1
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
+Add Net: Net with name "+3V3" already exists
