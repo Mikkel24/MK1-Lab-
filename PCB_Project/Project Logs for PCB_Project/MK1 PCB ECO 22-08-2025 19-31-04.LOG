@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin SB1-0
+Add Pin To Net: Unknown Pin: Pin SB2-0
+Change Net Name : Old Net Name=NetC29_1 New Net Name=SW
+Change Net Name : Old Net Name=NetR1_1 New Net Name=FB
+Add Net: Net with name "+3V3" already exists
